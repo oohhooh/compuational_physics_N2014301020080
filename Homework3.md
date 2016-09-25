@@ -17,8 +17,6 @@
 ##正文：
 L1:
 code:[L1](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/3.py)
-
-  [1]: https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/T%5B%7DL%28TAC%7DLSV$371LWKUEHL.png
   
 L2：
 code：[L2](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/4.py)
