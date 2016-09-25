@@ -18,8 +18,8 @@
 L1:
 code:[L1](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/3.py)
 
-L2：
-code：[L2](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/4.py)
+L2：    
+code：[L2](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/4.py)    
 素材链接：[素材](https://github.com/oohhooh/compuational_physics_N2014301020080/tree/master/images)
 
 ---
