@@ -22,7 +22,7 @@
 Na=100  Nb=0    
 Code：[Click here](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/homework4.py)    
 result：    
-![ ][6]
+![ ][6]    
 Na=80  Nb=20    
 result:    
 ![ ][7]
