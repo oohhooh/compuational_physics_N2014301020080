@@ -20,7 +20,8 @@
 同理可得：    
 ![ ][5]    
 Code：[Click here](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/homework4.py)    
-result：![ ][6]
+result：    
+![ ][6]
 ---
 ##结论
 
