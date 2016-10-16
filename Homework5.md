@@ -17,7 +17,8 @@
 Code:[Click here](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/homework5.py)    
 result:    
 取V=500m/s θ=45°时炮弹的轨迹为：![ ][4]    
-使速度不变，5度为梯度得到：![ ][5]    
+使速度不变，5度为梯度得到:    
+![ ][5]    
 
 
 ---
