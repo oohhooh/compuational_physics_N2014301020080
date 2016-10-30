@@ -16,6 +16,8 @@
 ![](http://latex.codecogs.com/gif.latex?t_%7Bi&plus;1%7D%3Dt_i%20&plus;%5CDelta%20t)    
 
 当周期性驱动力F_d较大时，物理摆将出现混沌现象。本题（3.12）是要绘制在特定时间时（t=(2πn+π/4）/Ω）的庞加莱截面并与书中figure3.9中给出的加以比较。  
+
+
 ---
 结论：
 result：    
