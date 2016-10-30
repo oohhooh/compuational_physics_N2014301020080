@@ -21,10 +21,11 @@
 ---
 结论：
 result：    
+t=2nπ/Ω时    
+![](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/images/Y%7BO2)IQ%24_%246GJ70%40L_)%24DMA.png)    
 t=(2nπ+π/4)/Ω时    
 ![](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/images/A5L6WHW%5D5~O4GP1%25L9THYAC.png)    
-
-
+可以看出其分布特点大致相同。
 ---
 ##致谢：
 感谢[侯国一](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework7/homework7.py)同学的程序
