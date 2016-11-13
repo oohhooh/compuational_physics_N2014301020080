@@ -13,12 +13,12 @@
 ![](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bd%20%5Comega%7D%7Bdt%7D%3D-%20%5Cfrac%7Bg%7D%7Bl%7Dsin%28%5Ctheta%29-q%20%5Cfrac%7Bd%5Ctheta%7D%7Bdt%7D&plus;F_D%20sin%28%5COmega_d%20t%29)
 
 ![](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bd%5Ctheta%7D%7Bdt%7D%3D%5Comega)
+![](http://latex.codecogs.com/gif.latex?%5Comega_%7Bi&plus;1%7D%3D%5Comega_i&plus;%5B-%28g/l%29sin%5Ctheta_i-q%5Comega_i&plus;F_Dsin%28%5COmega_Dt_i%29%5D%5CDelta%20t)    
+
+![](http://latex.codecogs.com/gif.latex?%5Ctheta_%7Bi&plus;1%7D%3D%5Ctheta_i&plus;%5Comega_%7Bi&plus;1%7D%5CDelta%20t)    
+![](http://latex.codecogs.com/gif.latex?t_%7Bi&plus;1%7D%3Dt_i%20&plus;%5CDelta%20t)
+当F_d增大时，物理摆的周期便会倍增，因此F_d-Θ图会出现分岔的现象。
 
 ---
 结论：
 result：    
-t=2nπ/Ω时    
-![](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/images/YO2IQ%24_%246GJ70%40L_%24DMA.png)    
-t=(2nπ+π/4)/Ω时    
-![](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/images/A5L6WHW%5D5~O4GP1%25L9THYAC.png)    
-可以看出其分布特点大致相同。
