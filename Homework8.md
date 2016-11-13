@@ -16,11 +16,11 @@
 ![](http://latex.codecogs.com/gif.latex?%5Comega_%7Bi&plus;1%7D%3D%5Comega_i&plus;%5B-%28g/l%29sin%5Ctheta_i-q%5Comega_i&plus;F_Dsin%28%5COmega_Dt_i%29%5D%5CDelta%20t)    
 
 ![](http://latex.codecogs.com/gif.latex?%5Ctheta_%7Bi&plus;1%7D%3D%5Ctheta_i&plus;%5Comega_%7Bi&plus;1%7D%5CDelta%20t)    
-![](http://latex.codecogs.com/gif.latex?t_%7Bi&plus;1%7D%3Dt_i%20&plus;%5CDelta%20t)
+![](http://latex.codecogs.com/gif.latex?t_%7Bi&plus;1%7D%3Dt_i%20&plus;%5CDelta%20t)    
 当F_d增大时，物理摆的周期便会倍增，因此F_d-Θ图会出现分岔的现象。
 [code](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/homework8.py)
 ---
-结论：
+结论：    
 result：    
 ![](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/images/D_%60OVN%60Q%25H%7DOD2\)PX317ZHG.png)
 
