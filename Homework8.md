@@ -22,7 +22,7 @@
 ---
 结论：
 result：    
-![](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/images/D_%60OVN%60Q%25H%7DOD2)PX317ZHG.png)
+![](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/images/D_%60OVN%60Q%25H%7DOD2\)PX317ZHG.png)
 
 ---
 致谢：    
