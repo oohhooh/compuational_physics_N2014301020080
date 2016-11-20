@@ -15,3 +15,6 @@
 ##结果
 用Vpython模拟的结果：    
 ![](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/images/gif.gif)
+
+##致谢
+感谢侯国一同学的程序
