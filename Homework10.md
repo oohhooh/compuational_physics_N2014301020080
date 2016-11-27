@@ -19,7 +19,7 @@
 ##结果    
 [](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/images/%258IHWWB82YQH%7BU31%608C1.png)    
 [](https://github.com/oohhooh/compuational_physics_N2014301020080/blob/master/images/%7BZ%25AY1B%24NUFV%5DD%5B~S5H9%24E9.png)    
-得到的进动速率为43.67角秒每世纪。
+得到的进动速率为43.67角秒每世纪。    
 由于a值太小，直接模拟误差过大，又已知w与a为线性关系，故用较大的a值做线性模拟可以得到更精确的值。
 
 ##致谢
